@@ -34,7 +34,7 @@
     stack(
       dir: ttb,
       spacing: 10pt,
-      image("/figures/tum_logo.png", width: 20%),
+      image("/figures/dummy.png", width: 20%),
       text(font: sans-font, weight: "bold", "Technical University \n of Munich")
     )
   )
