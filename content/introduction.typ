@@ -1,4 +1,4 @@
-#import "/utils/todo.typ": TODO
+#import "../utils/todo.typ": TODO
 
 = Introduction
 #TODO[
